@@ -1423,7 +1423,7 @@
     "selectedTokenSets": {
       "base/base": "source",
       "smc-reference/smc-reference": "source",
-      "comp-size/spacious": "enabled"
+      "comp-size/spacious": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:14007:40378",
     "$figmaModeId": "14007:53",
@@ -1466,6 +1466,7 @@
       "base/base": "source",
       "smc-reference/smc-reference": "source",
       "smc-colors/light": "source",
+      "smc-colors/dark": "source",
       "comp-color/comp-color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:18021:133",

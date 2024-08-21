@@ -5,9 +5,9 @@
     "smc-colors/dark",
     "smc-colors/light",
     "comp-color/comp-color",
+    "comp-size/dense",
     "comp-size/compact",
     "comp-size/comfortable",
-    "comp-size/spacious",
-    "comp-size/dense"
+    "comp-size/spacious"
   ]
 }
