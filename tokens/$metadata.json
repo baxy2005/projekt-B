@@ -3,6 +3,11 @@
     "base/base",
     "smc-reference/smc-reference",
     "smc-colors/dark",
-    "smc-colors/light"
+    "smc-colors/light",
+    "comp-color/comp-color",
+    "comp-size/dense",
+    "comp-size/compact",
+    "comp-size/comfortable",
+    "comp-size/spacious"
   ]
 }
