@@ -233,35 +233,35 @@
       },
       "error": {
         "lighter-40": {
-          "value": "{base.color.Red.100}",
+          "value": "{base.color.Orange.400}",
           "type": "color"
         },
         "lighter-30": {
-          "value": "{base.color.Red.200}",
+          "value": "{base.color.Orange.100}",
           "type": "color"
         },
         "lighter-20": {
-          "value": "{base.color.Red.300}",
+          "value": "{base.color.Orange.500}",
           "type": "color"
         },
         "lighter-10": {
-          "value": "{base.color.Red.400}",
+          "value": "{base.color.Orange.700}",
           "type": "color"
         },
         "default": {
-          "value": "{base.color.Red.500}",
+          "value": "{base.color.Orange.700}",
           "type": "color"
         },
         "darker-10": {
-          "value": "{base.color.Red.600}",
+          "value": "{base.color.Orange.900}",
           "type": "color"
         },
         "darker-20": {
-          "value": "{base.color.Red.700}",
+          "value": "{base.color.Orange.50}",
           "type": "color"
         },
         "darker-30": {
-          "value": "{base.color.Red.800}",
+          "value": "{base.color.Orange.950}",
           "type": "color"
         }
       },
